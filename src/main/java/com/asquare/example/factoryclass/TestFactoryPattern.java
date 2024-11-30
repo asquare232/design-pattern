@@ -1,4 +1,4 @@
-package com.asquare.example;
+package com.asquare.example.factoryclass;
 
 import com.asquare.example.factoryclass.Course;
 import com.asquare.example.factoryclass.CourseFactory;

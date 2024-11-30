@@ -1,4 +1,4 @@
-package com.asquare.example;
+package com.asquare.example.builderpattern;
 
 import com.asquare.example.builderpattern.URLBuilder;
 
