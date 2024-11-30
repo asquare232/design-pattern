@@ -3,7 +3,7 @@ package com.asquare.example;
 import com.asquare.example.factoryclass.Course;
 import com.asquare.example.factoryclass.CourseFactory;
 
-public class Main {
+public class TestFactoryPattern {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
